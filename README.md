@@ -33,13 +33,13 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/DheerajKommineni/449_To-do_app_scalable_backend_system
+   git clone https://github.com/sirishaa03/TO-DO_APP-Web_Backend
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 449_To-do_app_scalable_backend_system
+   cd TO-DO_APP-Web_Backend
    ```
 
 3. Install the required Python packages:
